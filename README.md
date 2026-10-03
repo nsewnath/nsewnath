@@ -1,4 +1,4 @@
-## hey, i'm neeka 👋
+## hey, i'm neeka 🧪
 
 data scientist + computational biologist working at the intersection
 of large-scale data, genomics, and cloud computing.
