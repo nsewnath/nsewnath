@@ -1,16 +1,19 @@
-## Hi there 👋
+## hey, i'm neeka 👋
 
-<!--
-**nsewnath/nsewnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+data scientist + computational biologist working at the intersection
+of large-scale data, genomics, and cloud computing.
 
-Here are some ideas to get you started:
+i like turning messy scientific/data problems into reproducible pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i'm working on
+
+- population genomics
+ancient and degraded DNA, low-coverage sequencing,
+population structure, admixture, ABBA-BABA
+
+- data engineering
+AWS, large-scale record linkage, ETL, distributed processing
+
+- scientific computing
+reproducible analysis pipelines, research software,
+workflow automation
