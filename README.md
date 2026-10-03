@@ -1,6 +1,6 @@
 ## hey, i'm neeka 🧪
 
-data scientist + computational biologist working at the intersection
+professional data scientist + phd computational biologist working at the intersection
 of large-scale data, genomics, and cloud computing.
 
 i like turning messy scientific/data problems into reproducible pipelines.
